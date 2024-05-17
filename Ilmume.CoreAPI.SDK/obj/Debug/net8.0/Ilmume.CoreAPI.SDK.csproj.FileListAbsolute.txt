@@ -1,0 +1,15 @@
+C:\Users\USER\Downloads\Documents\Ilmumecoresdk\Ilmume\Code\Ilmume.CoreAPI.SDK\obj\Debug\net8.0\Ilmume.CoreAPI.SDK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\Documents\Ilmumecoresdk\Ilmume\Code\Ilmume.CoreAPI.SDK\obj\Debug\net8.0\Ilmume.CoreAPI.SDK.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\Documents\Ilmumecoresdk\Ilmume\Code\Ilmume.CoreAPI.SDK\obj\Debug\net8.0\Ilmume.CoreAPI.SDK.AssemblyInfo.cs
+C:\Users\USER\Downloads\Documents\Ilmumecoresdk\Ilmume\Code\Ilmume.CoreAPI.SDK\obj\Debug\net8.0\Ilmume.CoreAPI.SDK.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Documents\Ilmumecoresdk\Ilmume\Code\Ilmume.CoreAPI.SDK\bin\Debug\net8.0\Ilmume.CoreAPI.SDK.deps.json
+C:\Users\USER\Downloads\Documents\Ilmumecoresdk\Ilmume\Code\Ilmume.CoreAPI.SDK\bin\Debug\net8.0\Ilmume.CoreAPI.SDK.dll
+C:\Users\USER\Downloads\Documents\Ilmumecoresdk\Ilmume\Code\Ilmume.CoreAPI.SDK\bin\Debug\net8.0\Ilmume.CoreAPI.SDK.pdb
+C:\Users\USER\Downloads\Documents\Ilmumecoresdk\Ilmume\Code\Ilmume.CoreAPI.SDK\bin\Debug\net8.0\Ilmume.Primary.Entities.dll
+C:\Users\USER\Downloads\Documents\Ilmumecoresdk\Ilmume\Code\Ilmume.CoreAPI.SDK\bin\Debug\net8.0\Ilmume.Primary.Entities.pdb
+C:\Users\USER\Downloads\Documents\Ilmumecoresdk\Ilmume\Code\Ilmume.CoreAPI.SDK\obj\Debug\net8.0\Ilmume.CoreAPI.SDK.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\Documents\Ilmumecoresdk\Ilmume\Code\Ilmume.CoreAPI.SDK\obj\Debug\net8.0\Ilmume.C.ADA7D9B8.Up2Date
+C:\Users\USER\Downloads\Documents\Ilmumecoresdk\Ilmume\Code\Ilmume.CoreAPI.SDK\obj\Debug\net8.0\Ilmume.CoreAPI.SDK.dll
+C:\Users\USER\Downloads\Documents\Ilmumecoresdk\Ilmume\Code\Ilmume.CoreAPI.SDK\obj\Debug\net8.0\refint\Ilmume.CoreAPI.SDK.dll
+C:\Users\USER\Downloads\Documents\Ilmumecoresdk\Ilmume\Code\Ilmume.CoreAPI.SDK\obj\Debug\net8.0\Ilmume.CoreAPI.SDK.pdb
+C:\Users\USER\Downloads\Documents\Ilmumecoresdk\Ilmume\Code\Ilmume.CoreAPI.SDK\obj\Debug\net8.0\ref\Ilmume.CoreAPI.SDK.dll

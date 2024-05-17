@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ilmume.CoreAPI.SDK/1.0.0": {
+        "dependencies": {
+          "Ilmume.Primary.Entities": "1.0.0"
+        },
+        "runtime": {
+          "Ilmume.CoreAPI.SDK.dll": {}
+        }
+      },
+      "Ilmume.Primary.Entities/1.0.0": {
+        "runtime": {
+          "Ilmume.Primary.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ilmume.CoreAPI.SDK/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ilmume.Primary.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
